@@ -20,7 +20,7 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Authors](#authors)
-* [Demo](#demo
+* [Demo](#demo)
 * [What to Change](#what-to-change)
 
 
@@ -103,6 +103,9 @@ Then press "Add Project"
 
 https://github.com/DylanBrass/Final_Game_Project/assets/71225455/380d52a1-2edb-4d0d-b225-11fc4dfc575e
 
+## Interesting code 
+
+
 
 ## What to change
 
@@ -115,4 +118,7 @@ As you can see there is a few bugs and polish problems, these are simply because
 * **emilegirardGit**  - *Comp Sci Student* - [emilegirardGit](https://github.com/emilegirardGit/) - *Made level 3 and sand, some animation work*
 * **MinseokBUZZ**  - *Comp Sci Student* - [MinseokBUZZ](https://github.com/MinseokBUZZ/) - *Made level 2*
 
+## Acknowledgments 
+
+- [Flexible Color Picker ](https://assetstore.unity.com/packages/tools/gui/flexible-color-picker-150497)https://assetstore.unity.com/packages/tools/gui/flexible-color-picker-150497
 
