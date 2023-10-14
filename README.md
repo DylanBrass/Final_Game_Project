@@ -20,6 +20,7 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Authors](#authors)
+* [Demo](#demo)
 
 ## About The Project
 
@@ -55,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 - Ounce Unity is installed clone the repo with :
 
 ```sh
-  $ git clone https://github.com/DylanBrass/Final_Game_Project.git
+  git clone https://github.com/DylanBrass/Final_Game_Project.git
 ```
 
 - Then open Unity
