@@ -20,7 +20,9 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Authors](#authors)
-* [Demo](#demo)
+* [Demo](#demo
+* [What to Change](#what-to-change)
+
 
 ## About The Project
 
