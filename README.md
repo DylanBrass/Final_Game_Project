@@ -3,7 +3,7 @@
   <h3 align="center">Mini Golf Game</h3>
 
   <p align="center">
-    This is a multiplayer golf game so grab a friend !
+    This is a multiplayer golf game so grab friends !
     <br/>
     <br/>
   </p>
