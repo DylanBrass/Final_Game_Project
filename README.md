@@ -52,33 +52,33 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - First you need to have unity installed, we used version 2022.2.2f1, to avoid any problems I recommend using the same.
-- Ounce installed clone the repo with :
+
+
+### Installation
+
+- Ounce Unity is installed clone the repo with :
 
 ```sh
   $ git clone https://github.com/DylanBrass/Final_Game_Project.git
 ```
 
-### Installation
+- Then open Unity
+- Open this menu :
 
-1. Get a free API Key at [https://example.com](https://example.com)
+![image](https://github.com/DylanBrass/Final_Game_Project/assets/71225455/9443d734-e608-4030-b5f4-9bce0ebb364d)
 
-2. Clone the repo
+- Click "Add Project From Disk"
+- Select the cloned project folder :
 
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
+![image](https://github.com/DylanBrass/Final_Game_Project/assets/71225455/017162d5-b933-4113-a45d-b42ad12218fe)
 
-3. Install NPM packages
+Then press "Add Project"
 
-```sh
-npm install
-```
+- Finally open it !
 
-4. Enter your API in `config.js`
+![image](https://github.com/DylanBrass/Final_Game_Project/assets/71225455/2adf9688-d081-4dd7-b5a5-aa1bfa76813f)
 
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
 
 ## Usage
 
