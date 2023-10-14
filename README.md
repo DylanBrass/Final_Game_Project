@@ -102,7 +102,9 @@ Then press "Add Project"
 https://github.com/DylanBrass/Final_Game_Project/assets/71225455/380d52a1-2edb-4d0d-b225-11fc4dfc575e
 
 
+## What to change
 
+As you can see there is a few bugs and polish problems, these are simply because we ran out of time since we were in our 4 semester with 7 classes and we needed to do other projects. We would all like to fix those. Otherwise more levels and cleaner multiplayer interactions are also on the list to do.
 
 ## Authors
 
