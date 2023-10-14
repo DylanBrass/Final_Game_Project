@@ -53,9 +53,10 @@ To get a local copy up and running follow these simple example steps.
 
 - First you need to have unity installed, we used version 2022.2.2f1, to avoid any problems I recommend using the same.
 - Ounce installed clone the repo with :
-  ```sh
+
+```sh
   $ git clone https://github.com/DylanBrass/Final_Game_Project.git
-  ```
+```
 
 ### Installation
 
