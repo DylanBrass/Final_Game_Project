@@ -103,8 +103,4 @@ Then press "Add Project"
 
 * **DylanBrass** - *Comp Sci Student* - [DylanBrass](https://github.com/DylanBrass/) - *Coded the Multiplayer*
 
-## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
