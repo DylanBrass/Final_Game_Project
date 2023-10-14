@@ -106,7 +106,7 @@ https://github.com/DylanBrass/Final_Game_Project/assets/71225455/380d52a1-2edb-4
 
 ## Authors
 
-* **DylanBrass** - *Comp Sci Student* - [DylanBrass](https://github.com/DylanBrass/) - *Coded the Multiplayer*
+* **DylanBrass** - *Comp Sci Student* - [DylanBrass](https://github.com/DylanBrass/) - *Coded the Multiplayer and gameplay features*
 * **RichardDanon**  - *Comp Sci Student* - [RichardDanon](https://github.com/RichardDanon/) - *Made UI and graphics as well as level 1 and 4*
 * **emilegirardGit**  - *Comp Sci Student* - [emilegirardGit](https://github.com/emilegirardGit/) - *Made level 3 and sand, some animation work*
 * **MinseokBUZZ**  - *Comp Sci Student* - [MinseokBUZZ](https://github.com/MinseokBUZZ/) - *Made level 2*
