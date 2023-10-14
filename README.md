@@ -39,9 +39,11 @@ We also had to present this project to the class and explain our code and what w
 
 ## Built With
 
--Used Unity
--Used Unity Multiplayer
--Used C#
+- Used Unity
+
+- Used Unity Multiplayer
+
+- Used C#
 
 ## Getting Started
 
@@ -50,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - First you need to have unity installed, we used version 2022.2.2f1, to avoid any problems I recommend using the same.
--  Ounce installed clone the repo with 
+- Ounce installed clone the repo with 
 
 ### Installation
 
